@@ -1,12 +1,9 @@
 
-📊 Conversion Anomalies Detection
-Conversion Anomalies Detection is a Jupyter Notebook that analyzes marketing conversion data, identifies anomalies, and highlights unusual trends in key performance metrics.
+Digital Marketing Anomalies Detection
 
-🎯 Goal
-The notebook helps detect irregularities in conversion rates that may indicate fraud, tracking issues, or unexpected user behavior.
+This Notebook analyzes marketing conversion data, identifies anomalies, and highlights unusual trends in key performance metrics. It helps detect irregularities in conversion rates that may indicate fraud, tracking issues, or unexpected user behavior.
 
-📌 Approach
-Data Preprocessing
+📌 Data Preprocessing
 
 Loads and formats marketing data.
 Groups data into 2-day intervals for trend analysis.
